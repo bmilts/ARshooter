@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mask.shader">
+    <Files>
+      <File FileName="Assets/Mask.shader" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/GameControllerScript.cs" Line="27" Column="27" />
+      <File FileName="Assets/Scripts/shootEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/enemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/collisionWithCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/moveShell.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/loadNewGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
