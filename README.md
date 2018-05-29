@@ -2,25 +2,25 @@
 An augmented reality first person shooter developed as a hobby from an interest in AR
 
 ## Description
-Using Unity, C#, Vision and ARKit to build a 
+Using Unity, C#, Vision and ARKit to build an augmented reality first person shooter where enemy zombies are droped into the world to be dealt with promptly
 
 ## Screenshots
 
-<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
+<img src="/start.png"  width="325" /> <img src="/discovery.png"  width="325" /> <img src="/zombie.png"  width="325" /> <img src="/zombies.png"  width="325" /> <img src="/portal.png"  width="325" />
 
 ## Features
 
-* Apply a pre-trained machine learning model using coreml to photographs
-* Apply the same pre-trained model to a live feed using the vision framework 
-* Place Augmented Labels of the model prediction result using ARKit  
+* Basic amount of models are augmented over the world
+* Unlimited dropping zombie with walking and attacking actions come for the user 
+* Health diminishing on zombie attack, game over on reaching zero
+* Gun with diminishing bullets and reload function
+* Portal to a small world for exploration
 
 ## Built With
 
 * [Vision](https://developer.apple.com/documentation/vision)
 * [ARKit](https://developer.apple.com/arkit/)
-* [CoreML](https://developer.apple.com/documentation/coreml)
-* [InceptionV3](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
-* [Tensorflow](https://www.tensorflow.org/)
+* [Vuforia](https://www.vuforia.com/)
 
 ## License
 TBD
@@ -28,5 +28,5 @@ TBD
 ## Project Information
 - category: Mobile Prototype
 - author: Brendan Milton
-- description:  AR machine learning testing app for iOS
-- stack: ARKit, Vision, CoreML, iOS and tensorflow
+- description:  AR First Person Shooter
+- stack: Unity, Vuforia, C#, Vision, ARKit and iOS
